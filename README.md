@@ -1,5 +1,10 @@
 ## Hi there 👋, I'm Emily
 ### Student at the University of Guelph
+- 🔭 I’m currently working on my CTS portfolio
+
+### Langauges and Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
 <!--
 **emilys16/emilys16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
