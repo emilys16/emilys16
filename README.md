@@ -8,6 +8,19 @@
   width="50" 
   height="50"
 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fusion/fusion-original.svg" 
+  width="50" 
+  height="50"
+  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" 
+  width="50" 
+  height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
+  width="50" 
+  height="50"/>
+
+
+
 
 <!--
 **emilys16/emilys16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
